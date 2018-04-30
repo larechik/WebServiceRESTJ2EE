@@ -64,5 +64,4 @@ public class PostgreSQLDAO {
         return persons;
     }
 
-
 }

@@ -3,3 +3,4 @@
 target/
 .gitignore
 WebServiceRESTJ2EE.iml
+web.xml
